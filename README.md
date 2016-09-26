@@ -5,7 +5,7 @@ Name: `Katherine Jeffrey`
 
 ONID ID: `jeffreyk`
 
-Link to my CS 290 page: `web.engr.oregonstate.edu/~jeffreyk/cs290`
+Link to my CS 290 page: `https://web.engr.oregonstate.edu/~jeffreyk/cs290`
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
 
